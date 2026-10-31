@@ -1,2 +1,3 @@
 # uxcom
-Placeholder repo for the uxcom project
+
+Placeholder package. The `uxcom` name is reserved for a future project.
